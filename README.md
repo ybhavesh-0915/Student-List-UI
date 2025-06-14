@@ -1,8 +1,3 @@
-Great Bhavesh! Here's a clean and professional **README.md** file for your **Student List UI** project:
-
----
-
-```markdown
 # 📋 Student List UI
 
 A modern and responsive student list user interface built with **HTML5** and **CSS3**, featuring an admin panel layout, form validation, and elegant student details view.
