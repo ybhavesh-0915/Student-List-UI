@@ -48,7 +48,7 @@ Student-List-UI/
 To run the project locally:
 
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/ybhavesh-0915/Student-List-UI.git
 ````
 
